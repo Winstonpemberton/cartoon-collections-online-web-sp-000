@@ -17,7 +17,7 @@ def long_planeteer_calls(calls)# code an argument here
   if list_of_words.none? = false
     true
   end
-    
+
 end
 
 def find_the_cheese# code an argument here
