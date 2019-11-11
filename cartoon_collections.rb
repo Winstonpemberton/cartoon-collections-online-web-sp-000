@@ -14,10 +14,9 @@ def long_planeteer_calls(calls)# code an argument here
   # Your code here
   list_of_words = []
   list_of_words << calls.scan(/\b\w4/)
-  if list_of_words.none? = false
+  if list_of_words.none? == false
     true
   end
-
 end
 
 def find_the_cheese# code an argument here
